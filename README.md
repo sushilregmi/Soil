@@ -28,5 +28,5 @@ python inference.py
 ```
 
 ## Result
-![Model Architecture](output\output.png)
-![Model Architecture](output\output1.png)
+![Result](output\output.png)
+![Result](output\output1.png)
