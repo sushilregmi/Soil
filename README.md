@@ -28,5 +28,5 @@ python inference.py
 ```
 
 ## Result
-![Result](output\output.png)
-![Result](output\output1.png)
+![Result](output/output.png)
+![Result](output/output1.png)
